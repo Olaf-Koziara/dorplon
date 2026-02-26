@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div
         className="absolute inset-0 bg-cover bg-center z-0 transform scale-105"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1625246333195-5819acf424d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')",
+          backgroundImage: "url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')",
           filter: "brightness(0.85)"
         }}
       >
