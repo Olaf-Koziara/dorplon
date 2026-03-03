@@ -6,37 +6,37 @@ const products = [
   {
     title: "Pasze",
     description: "Drobiu, Bydła, Królików i Trzody chlewnej",
-    image: "https://images.unsplash.com/photo-1594498653385-d5172c532c00?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Cows eating feed
+    image: "https://images.unsplash.com/photo-1594498653385-d5172c532c00?q=80&w=2670&auto=format&fit=crop" // Cows eating feed
   },
   {
     title: "Środki ochrony roślin",
     description: "Skuteczna ochrona upraw przed szkodnikami i chorobami.",
-    image: "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Tractor spraying field
+    image: "https://images.unsplash.com/photo-1592982537447-6f23349e5c4d?q=80&w=2670&auto=format&fit=crop" // Tractor spraying field
   },
   {
     title: "Flizy",
     description: "Różne rozmiary. Ochrona stogów słomy i siana.",
-    image: "https://images.unsplash.com/photo-1518994603110-1912b3272afd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Large straw bales stack
+    image: "https://images.unsplash.com/photo-1506044719003-87bb172fa126?q=80&w=2670&auto=format&fit=crop" // Round hay bales
   },
   {
     title: "Nawozy dolistne",
     description: "Uzupełnienie niedoborów składników pokarmowych.",
-    image: "https://images.unsplash.com/photo-1532509774891-141d37f25ae9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Close up of healthy crops/fertilizing
+    image: "https://images.unsplash.com/photo-1492496913980-501348b61469?q=80&w=2670&auto=format&fit=crop" // Healthy crops growing (greenery)
   },
   {
     title: "Sznurki",
     description: "Wytrzymałe sznurki rolnicze.",
-    image: "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Twine/rope texture
+    image: "https://images.unsplash.com/photo-1595856407000-80a2dfcaea86?q=80&w=2670&auto=format&fit=crop" // Round bales tied in the field
   },
   {
     title: "Folie i siatki",
     description: "Do sianokiszonki. Najwyższa jakość i wytrzymałość.",
-    image: "https://images.unsplash.com/photo-1492496913980-501348b61469?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Wrapped round bales
+    image: "https://images.unsplash.com/photo-1595180631627-c10ba2d9ce6d?q=80&w=2670&auto=format&fit=crop" // Wrapped silage bales
   },
   {
     title: "Materiał siewny",
     description: "Zbóż, Kukurydzy, Rzepaku oraz traw.",
-    image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Hand holding seeds
+    image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?q=80&w=2670&auto=format&fit=crop" // Grain seeds in hand
   }
 ];
 
