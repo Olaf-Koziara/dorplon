@@ -6,37 +6,37 @@ const products = [
   {
     title: "Pasze",
     description: "Drobiu, Bydła, Królików i Trzody chlewnej",
-    image: "https://images.unsplash.com/photo-1500595046743-cd271d694d30?fm=jpg&q=60&w=800&auto=format&fit=crop" // Feed/Grain
+    image: "https://images.unsplash.com/photo-1594498653385-d5172c532c00?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Cows eating feed
   },
   {
     title: "Środki ochrony roślin",
     description: "Skuteczna ochrona upraw przed szkodnikami i chorobami.",
-    image: "https://plus.unsplash.com/premium_photo-1661808770389-30a3ed35b7fe?fm=jpg&q=60&w=800&auto=format&fit=crop" // Sprayer
+    image: "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Tractor spraying field
   },
   {
     title: "Flizy",
     description: "Różne rozmiary. Ochrona stogów słomy i siana.",
-    image: "https://images.unsplash.com/photo-1492496913980-501348b61469?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Farming field
+    image: "https://images.unsplash.com/photo-1518994603110-1912b3272afd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Large straw bales stack
   },
   {
     title: "Nawozy dolistne",
     description: "Uzupełnienie niedoborów składników pokarmowych.",
-    image: "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Fertilizer
+    image: "https://images.unsplash.com/photo-1532509774891-141d37f25ae9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Close up of healthy crops/fertilizing
   },
   {
     title: "Sznurki",
     description: "Wytrzymałe sznurki rolnicze.",
-    image: "https://images.unsplash.com/photo-1530507629858-e4977d30e9e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Rope/Twine (Generic texture)
+    image: "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Twine/rope texture
   },
   {
     title: "Folie i siatki",
     description: "Do sianokiszonki. Najwyższa jakość i wytrzymałość.",
-    image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Hay bales wrapped
+    image: "https://images.unsplash.com/photo-1492496913980-501348b61469?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Wrapped round bales
   },
   {
     title: "Materiał siewny",
     description: "Zbóż, Kukurydzy, Rzepaku oraz traw.",
-    image: "https://images.unsplash.com/photo-1574943320219-553eb213f72d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Seeds
+    image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" // Hand holding seeds
   }
 ];
 
